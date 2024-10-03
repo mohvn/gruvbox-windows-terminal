@@ -1,0 +1,20 @@
+{
+  "name": "Gruvbox Dark Soft",
+  "tab": {
+    "background": "#3c3836",
+    "iconStyle": "default",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#32302f",
+    "unfocusedBackground": "#32302f"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "experimental.rainbowFrame": false,
+    "frame": null,
+    "unfocusedFrame": null,
+    "useMica": false
+  }
+}

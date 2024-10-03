@@ -1,0 +1,20 @@
+{
+  "name": "Gruvbox Light Hard",
+  "tab": {
+    "background": "#EBDBB2FF",
+    "iconStyle": "default",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#F9F5D7FF",
+    "unfocusedBackground": "#F9F5D7FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "experimental.rainbowFrame": false,
+    "frame": null,
+    "unfocusedFrame": null,
+    "useMica": false
+  }
+}
